@@ -44,7 +44,7 @@ tags:
 粘贴进去，点击确定，右侧栏会跳转到前面的地址。
 
 此时，左侧栏和右侧栏的两个文件夹的名字一样，左侧栏文件夹日期应为2023年，右侧栏文件夹日期是你安装游戏的日期，请仔细核对，如下图所示。
-![我的图片]("/assets/images/rs2_title.jpg")
+<img src="/assets/images/pic.jpg" alt="我的图片" width="50%" />
 ```ruby
 def print_hi(name)
   puts "Hi, #{name}"
