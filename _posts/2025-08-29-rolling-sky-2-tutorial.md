@@ -33,7 +33,7 @@ tags:
 
 准备工作：在手机上安装 Shizuku、MT管理器。并使用 Shizuku 给 MT管理器 授予 Shell 权限。详见下方视频，这里不再赘述。
 
-[点击跳转到视频]
+<a href="https://www.bilibili.com/video/BV1upYsznEiZ/" target="_blank" rel="noopener noreferrer">点击跳转到视频</a>
 
 安装使用我分享的安装包安装rs2，进入游戏，通关引导关卡，然后退回桌面，清除 rs2(破解版为"魔幻旅程"或"Magic Journey") 的后台。
 
