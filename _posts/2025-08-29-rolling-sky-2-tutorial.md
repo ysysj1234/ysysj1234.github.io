@@ -66,13 +66,13 @@ tips:
 
 滚动的天空2 "命运" 游戏画面
 
-<img src="/assets/images/rs2_gamepic1.jpg" alt="" width="25%" />
+<img src="/assets/images/rs2_gamepic1.jpg" alt="" width="100%" />
 
-<img src="/assets/images/rs2_gamepic2.jpg" alt="" width="25%" />
+<img src="/assets/images/rs2_gamepic2.jpg" alt="" width="100%" />
 
 破解版画面
 
-<img src="/assets/images/rs2_gamepic3.jpg" alt="" width="25%" />
+<img src="/assets/images/rs2_gamepic3.jpg" alt="" width="100%" />
 
 视频教程
 
