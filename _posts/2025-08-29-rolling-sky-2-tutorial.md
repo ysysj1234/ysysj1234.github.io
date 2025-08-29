@@ -1,14 +1,12 @@
 ---
-title: "滚动的天空2下载安装教程"
-header:
-  overlay_image: /assets/images/rs2_title.jpg
-  overlay_filter: rgba(0, 0, 0, 0.3)
-date: 2025-08-29T12:30:34
+title: "Post:Test"
+last_modified_at: 2016-03-09T16:20:02-05:00
 categories:
-  - blog
+  - Blog
 tags:
-  - Blogs
-  - tutorial
+  - Post Formats
+  - readability
+  - standard
 ---
 You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
