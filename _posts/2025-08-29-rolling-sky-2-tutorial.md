@@ -76,9 +76,9 @@ tips:
 
 视频教程
 
-<a href="" target="_blank" rel="noopener noreferrer">如何打开魔法师版的《滚动的天空2》？ by MaxWalter315</a>
+<a href="https://www.bilibili.com/video/BV1xFvwz9E2p/" target="_blank" rel="noopener noreferrer">如何打开魔法师版的《滚动的天空2》？ by MaxWalter315</a>
 
-<a href="" target="_blank" rel="noopener noreferrer">滚动的天空2————安卓版魔法师版本下载教程 by 执念邪风vov</a>
+<a href="https://www.bilibili.com/video/BV1credzaETG/" target="_blank" rel="noopener noreferrer">滚动的天空2————安卓版魔法师版本下载教程 by 执念邪风vov</a>
 
 ---
 
