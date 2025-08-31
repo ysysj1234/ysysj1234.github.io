@@ -11,13 +11,17 @@ tags:
 
 ---
 
-准备材料：安卓机、Shizuku、MT管理器、rs2安装包，(普通版安装包为rolling_sky2.apk，破解版安装包为jp.bitqueen.mj112.apk或Magic Journey.apk)、完整关卡文件
+普通版：
+
+下载链接 <a href="https://www.123865.com/s/9ai9jv-tENL3?pwd=Ptga" target="_blank" rel="noopener noreferrer">https://www.123865.com/s/9ai9jv-tENL3?pwd=Ptga</a>
+
+安卓设备及华为HarmonyOS NEXT 5.0以下(不包括HarmonyOS NEXT 5.0)的设备直接安装就可以玩，华为HarmonyOS 5.0及以上的设备在"卓易通"容器内安装后才能玩
+
+破解版：
+
+准备材料：安卓机、Shizuku、MT管理器、rs2安装包，(安装包为jp.bitqueen.mj112.apk或Magic Journey.apk)、完整关卡文件
 
 文件下载链接：
-
-普通版 
-
-<a href="https://www.123865.com/s/9ai9jv-ihNL3?pwd=VlYO" target="_blank" rel="noopener noreferrer">https://www.123865.com/s/9ai9jv-ihNL3?pwd=VlYO</a>
 
 破解版1(无限资源，但是魔法师等级卡在49不能升级) 
 
@@ -34,12 +38,11 @@ tags:
 
 <a href="https://www.bilibili.com/video/BV1upYsznEiZ/" target="_blank" rel="noopener noreferrer">点击跳转到视频</a>
 
-安装使用我分享的安装包安装rs2，进入游戏，通关引导关卡，然后退回桌面，清除 rs2(破解版为"魔幻旅程"或"Magic Journey") 的后台。
+安装使用我分享的安装包安装rs2，进入游戏，通关引导关卡，然后退回桌面，清除 rs2(名称为"魔幻旅程"或"Magic Journey") 的后台。
 
 导入关卡文件：打开 MT管理器 ，在 MT管理器 界面的左侧栏中打开我分享的"完整关卡文件.zip"文件，可以看到有两个文件夹，分别名为"files"和"cache"。<br>
 在 MT管理器的右侧栏中点击上方的地址栏，会提示跳转到某地址
-将"/storage/emulated/0/Android/data/com.cmplay.rollingdream/"
-(破解版为"/storage/emulated/0/Android/data/jp.bitqueen.mj/")
+将"/storage/emulated/0/Android/data/jp.bitqueen.mj/"
 粘贴进去，点击确定，右侧栏会跳转到前面的地址。
 
 此时，左侧栏和右侧栏的两个文件夹的名字一样，左侧栏文件夹日期应为2023年，右侧栏文件夹日期是你安装游戏的日期，请仔细核对，如下图所示。
@@ -50,7 +53,7 @@ tags:
 
 <img src="/assets/images/rs2_tutorial2.png" alt="" width="100%" />
 
-让游戏读写关卡文件：导入关卡文件完成后，退回到桌面，关闭网络进入游戏，游戏会引导你下载"小王子"关卡，点击下载"小王子"关卡，会提示连接中，此时退回到桌面，清除rs2后台，再连接网络，进入游戏，应该可以直接进入"小王子"关卡了，此时就代表游戏已经识别到你导入的关卡文件，而且以后启动游戏时无需再进行以上所有操作。如果仍无法进入，重复上述(导入关卡文件完成后的)步骤即可。识别成功后，这时就能删除"完整关卡文件.zip"，卸载 Shizuku 和 MT管理器(可以选择不卸载)。
+让游戏读写关卡文件：导入关卡文件完成后，退回到桌面，关闭网络进入游戏，游戏会引导你下载"小王子"关卡，点击下载"小王子"关卡，会提示连接中，此时退回到桌面，清除rs2后台，再连接网络，进入游戏，应该可以直接进入"小王子"关卡了，此时就代表游戏已经识别到你导入的关卡文件，而且以后启动游戏时无需再进行以上所有操作。如果仍无法进入，重复上述(导入关卡文件完成后的)步骤即可。识别成功后，这时就能删除"完整关卡文件.zip"了，也可卸载 Shizuku 和 MT管理器(可以选择不卸载)。
 
 完成以上所有操作后，即可畅玩rs2魔法师版本。
 
@@ -74,7 +77,7 @@ tips:
 
 <img src="/assets/images/rs2_gamepic3.jpg" alt="" width="100%" />
 
-视频教程
+视频教程(已过时)
 
 <a href="https://www.bilibili.com/video/BV1xFvwz9E2p/" target="_blank" rel="noopener noreferrer">如何打开魔法师版的《滚动的天空2》？ by MaxWalter315</a>
 
@@ -103,7 +106,7 @@ tips:
 
 若MT管理器右侧地址栏跳转到文章中的地址后右侧没有文件夹，请检查自己是否用Shizuku授予Shell权限，务必按照第一个视频操作。
 
-华为HarmonyOS NEXT 5.0及以上版本，以上操作均可在"卓易通"容器中完成。由于5.0以下版本使用的是魔改过的安卓内核，无法开启无线调试进而无法使用Shizuku授予MT管理器Shell权限。
+华为HarmonyOS NEXT 5.0及以上版本，破解版的操作步骤均可在"卓易通"容器中完成。由于5.0以下版本使用的是魔改过的安卓内核，无法开启无线调试进而无法使用Shizuku授予MT管理器Shell权限，因此暂不能使用破解版。
 
 对于某些设备，普通版运行可能出现闪退、卡顿等情况，请使用破解版。
 
