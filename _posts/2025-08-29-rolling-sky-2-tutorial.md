@@ -11,25 +11,24 @@ tags:
 
 ---
 
-普通版：
+安装包及工具下载链接：<a href="https://www.123684.com/s/9ai9jv-5oNL3?pwd=9laH#%20%E6%8F%90%E5%8F%96%E7%A0%81:9laH" target="_blank" rel="noopener noreferrer">https://www.123684.com/s/9ai9jv-5oNL3?pwd=9laH#%20%E6%8F%90%E5%8F%96%E7%A0%81:9laH</a>
 
-下载链接 <a href="https://www.123865.com/s/9ai9jv-tENL3?pwd=Ptga" target="_blank" rel="noopener noreferrer">https://www.123865.com/s/9ai9jv-tENL3?pwd=Ptga</a>
+链接包含
+
+普通版：
 
 安卓设备及华为HarmonyOS NEXT 5.0以下(不包括HarmonyOS NEXT 5.0)的设备直接安装就可以玩，华为HarmonyOS 5.0及以上的设备在"卓易通"容器内安装后才能玩
 
 破解版：
 
-准备材料：安卓机、Shizuku、MT管理器、rs2安装包，(安装包为jp.bitqueen.mj112.apk或Magic Journey.apk)、完整关卡文件
-
-文件下载链接：
-
 破解版1(无限资源，但是魔法师等级卡在49不能升级) 
-
-<a href="https://www.123865.com/s/9ai9jv-wANL3?pwd=k7mX" target="_blank" rel="noopener noreferrer">https://www.123865.com/s/9ai9jv-wANL3?pwd=k7mX</a>
 
 破解版2(非无限资源，但是使用蓝宝石购买物品时会返还双倍的量) 
 
-<a href="https://www.123865.com/s/9ai9jv-k9NL3?pwd=IBYZ" target="_blank" rel="noopener noreferrer">https://www.123865.com/s/9ai9jv-k9NL3?pwd=IBYZ</a><br>
+需按以下步骤操作来游玩
+
+准备材料：安卓机、Shizuku、MT管理器、rs2安装包，(安装包为jp.bitqueen.mj112.apk或Magic Journey.apk)、完整关卡文件
+
 <br>
 <br>
 详细操作步骤：
@@ -101,8 +100,6 @@ tips:
 <br>
 <br>
 注意事项：
-
-若在导入文件时，MT管理器提示"请求Shell权限超时"，请在以下地址下载Shizuku。地址:<a href="https://www.123684.com/s/o32qVv-U3mWA" target="_blank" rel="noopener noreferrer">https://www.123684.com/s/o32qVv-U3mWA</a>
 
 若MT管理器右侧地址栏跳转到文章中的地址后右侧没有文件夹，请检查自己是否用Shizuku授予Shell权限，务必按照第一个视频操作。
 
