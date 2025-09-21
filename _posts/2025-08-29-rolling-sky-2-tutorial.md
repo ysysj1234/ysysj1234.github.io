@@ -33,7 +33,7 @@ tags:
 <br>
 详细操作步骤：
 
-准备工作：在手机上安装 Shizuku、MT管理器。并使用 Shizuku 给 MT管理器 授予 Shell 权限。详见下方视频，这里不再赘述。
+准备工作（非常重要，不得忽略！！！）：在手机上安装 Shizuku、MT管理器。并使用 Shizuku 给 MT管理器 授予 Shell 权限。详见下方视频，这里不再赘述。
 
 <a href="https://www.bilibili.com/video/BV1upYsznEiZ/" target="_blank" rel="noopener noreferrer">点击跳转到视频</a>
 
