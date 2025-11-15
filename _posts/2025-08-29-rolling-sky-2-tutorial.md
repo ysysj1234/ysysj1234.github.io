@@ -55,7 +55,7 @@ tags:
 
 1.打开 MT管理器 ，在 MT管理器 界面的左侧栏中打开我提供的"完整关卡文件.zip"，你会看到"files"和"cache"两个文件夹。
 
-2.在 MT管理器 的右侧栏中点击上方的地址栏，输入以下路径，并点击确定：<br>
+2.在 MT管理器 的右侧栏中点击上方的地址栏，输入以下路径，并点击确定，跳转后的界面如图所示：<br>
 /storage/emulated/0/Android/data/jp.bitqueen.mj/
 
 <img src="/assets/images/rs2_tutorial1.png" alt="" width="100%" />
